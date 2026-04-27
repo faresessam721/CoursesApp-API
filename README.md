@@ -1,5 +1,5 @@
 # CoursesApp-API
-Course Management System APIA RESTful CRUD API built to manage online courses with secure authentication and Role-Based Access Control (RBAC). 
+Course Management System API A RESTful CRUD API built to manage online courses with secure authentication and Role-Based Access Control (RBAC). 
 ## Features
 User Authentication: Secure login and registration with token-based authentication.
 
